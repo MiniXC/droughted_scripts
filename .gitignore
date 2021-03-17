@@ -6,3 +6,5 @@ __pycache__
 *.hdf5
 *.xml
 *.json
+data
+sets
